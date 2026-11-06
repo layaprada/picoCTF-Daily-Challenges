@@ -18,4 +18,4 @@ I'm using picoCTF to challenge myself, explore different areas of cybersecurity 
 | 01 | Undo | General Skills | Easy |
 
 
-**Learning as I go, one challenge at a time.**
+**Learning as I go, one challenge at a time :)**
